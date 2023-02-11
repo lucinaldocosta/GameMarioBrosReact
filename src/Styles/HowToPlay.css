@@ -1,0 +1,32 @@
+.howtoplay_section{
+    width: 80vw;
+    margin: auto;
+}
+.howtoplay_article{
+    border: 1px solid #246068;
+    box-shadow: 2px 2px 15px 0 #4d4d4d;
+    margin: 20px;
+    overflow: hidden;
+    padding: 10px;
+}
+.howtoplay_title{
+    margin: 20px 0;
+    text-align: center;
+}
+.howtoplay_div_img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.howtoplay_img{
+    width: 40vw;
+    margin: 10px 0;
+}
+.howtoplay_p{
+    text-align: justify;
+    width: 50%;
+    position: relative;
+    font-size: 16px;
+    margin: 10px;
+    left: 23%;
+}

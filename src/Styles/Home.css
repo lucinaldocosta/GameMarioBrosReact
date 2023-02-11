@@ -1,0 +1,28 @@
+.home_section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+.home_article{
+    width: 80vw;
+    border: 1px solid #246068;
+    border-radius: 30px;
+    margin: 10px 0;
+    padding: 20px;
+    box-shadow: 2px 2px 15px 0 #4d4d4d;
+}
+.home_title{
+    text-align: start;
+    color: #4d4d4d;
+    font-weight: 200;
+    margin: 30px 0 0 20px;
+}
+.home_p{
+    display: inline;
+}
+.home_pictures{
+    float: left;
+    margin: 20px;
+}
